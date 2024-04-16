@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="FATEC ZONA LESTE"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-04-03 02:42:32 "/>
+        <attribute name="created" value="RkFURUMgWk9OQSBMRVNURTtUMDItMjM7MjAyNC0wNC0wMzsiMDE6Mjg6MTggIjsyNjMw"/>
+        <attribute name="edited" value="RkFURUMgWk9OQSBMRVNURTtUMDItMjM7MjAyNC0wNC0wMzsiMDI6NDI6MzIgIjsxOzI3MzE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="produto" type="String" array="False" size=""/>
+            <declare name="qproduto" type="Real" array="False" size=""/>
+            <declare name="vproduto" type="Real" array="False" size=""/>
+            <declare name="cproduto" type="Real" array="False" size=""/>
+            <output expression="&quot;diga o nome do produto&quot;" newline="True"/>
+            <input variable="produto"/>
+            <output expression="&quot;Digite o valor do produto&quot;" newline="True"/>
+            <input variable="vproduto"/>
+            <output expression="&quot;diga a quantidade que pretende comprar&quot;" newline="True"/>
+            <input variable="qproduto"/>
+            <assign variable="cproduto" expression="qproduto*vproduto"/>
+            <output expression="&quot;o &quot;  &amp;produto&amp; &quot; custa &quot; &amp;cproduto&amp;  &quot; reais&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
