@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="FATEC ZONA LESTE"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-04-03 02:56:53 "/>
+        <attribute name="created" value="RkFURUMgWk9OQSBMRVNURTtUMDItMjM7MjAyNC0wNC0wMzsiMDI6NDI6NDAgIjsyNjIy"/>
+        <attribute name="edited" value="RkFURUMgWk9OQSBMRVNURTtUMDItMjM7MjAyNC0wNC0wMzsiMDI6NTY6NTMgIjs2OzI3NDQ="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome" type="String" array="False" size=""/>
+            <declare name="nota1" type="Integer" array="False" size=""/>
+            <declare name="nota2" type="Integer" array="False" size=""/>
+            <declare name="nota3" type="Integer" array="False" size=""/>
+            <declare name="nota4" type="Integer" array="False" size=""/>
+            <declare name="mfinal" type="Integer" array="False" size=""/>
+            <output expression="&quot;diga a primeira nota&quot;" newline="True"/>
+            <input variable="nota1"/>
+            <output expression="&quot;diga a segunda nota&quot;" newline="True"/>
+            <input variable="nota2"/>
+            <output expression="&quot;diga a terceira nota&quot;" newline="True"/>
+            <input variable="nota3"/>
+            <output expression="&quot;diga a quarta nota&quot;" newline="True"/>
+            <input variable="nota4"/>
+            <assign variable="mfinal" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="&quot;a nota final &#233; &quot; &amp;mfinal" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

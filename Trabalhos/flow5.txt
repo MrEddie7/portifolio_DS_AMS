@@ -1,0 +1,8 @@
+escreva a nota 1
+10
+escreva a nota 2
+10
+escreva a nota 3
+10
+a media é 10
+

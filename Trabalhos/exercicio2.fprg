@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="FATEC ZONA LESTE"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-04-10 02:08:39 "/>
+        <attribute name="created" value="RkFURUMgWk9OQSBMRVNURTtMQUIxMDItMTc7MjAyNC0wNC0xMDsiMDE6NTU6NTEgIjsyODAw"/>
+        <attribute name="edited" value="RkFURUMgWk9OQSBMRVNURTtMQUIxMDItMTc7MjAyNC0wNC0xMDsiMDI6MDg6MzkgIjsxOzI5MTM="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="porcentagem1" type="Real" array="False" size=""/>
+            <declare name="porcentagem2" type="Real" array="False" size=""/>
+            <declare name="porcentagem3" type="Real" array="False" size=""/>
+            <declare name="custo" type="Real" array="False" size=""/>
+            <output expression="&quot;Introduza o custo do carro&quot;" newline="True"/>
+            <input variable="custo"/>
+            <assign variable="porcentagem1" expression="custo/100"/>
+            <assign variable="porcentagem2" expression="porcentagem1*72"/>
+            <output expression="&quot;o custo sera de  &quot; &amp;porcentagem2&amp;  &quot; para o seu carro&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="FATEC ZONA LESTE"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-04-03 03:05:57 "/>
+        <attribute name="created" value="RkFURUMgWk9OQSBMRVNURTtUMDItMjM7MjAyNC0wNC0wMzsiMDI6NTY6NTYgIjsyNjM0"/>
+        <attribute name="edited" value="RkFURUMgWk9OQSBMRVNURTtUMDItMjM7MjAyNC0wNC0wMzsiMDM6MDU6NTcgIjsxOzI3Mzg="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="segundos" type="Real" array="False" size=""/>
+            <declare name="horas" type="Real" array="False" size=""/>
+            <declare name="minutos" type="Real" array="False" size=""/>
+            <output expression="&quot;diga o tempo em segundos&quot;" newline="True"/>
+            <input variable="segundos"/>
+            <assign variable="minutos" expression="segundos/60"/>
+            <assign variable="horas" expression="minutos/60"/>
+            <output expression="&quot;o tempo em minutos &quot;&amp;minutos&amp;&quot; e em horas &quot; &amp;horas" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
