@@ -3,5 +3,8 @@ repositorio das aulas, projetos pessoais, trabalhos proficionais.
 
 # linguagens 
 
-<img href="java" url="https://www.softsell.com.br/wp-content/uploads/2018/04/java_logo_640.jpg" widht="200">
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
