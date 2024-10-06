@@ -1,5 +1,6 @@
 # PORTIFOLIO_DS_AMS
-repositorio das aulas, projetos pessoais, trabalhos proficionais.
+
+Repositório de projetos relacionados a Etec Zona Leste 
 
 # linguagens 
 
@@ -7,4 +8,4 @@ repositorio das aulas, projetos pessoais, trabalhos proficionais.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
+![Portugol](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmnwOIgzzWZQSQfgz9U0mPabxGbz_2NSWo7w&usqp=CAU)
