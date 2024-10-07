@@ -1,8 +1,5 @@
-![Thanks for the attention!!! :)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3131&center=true&center=true&random=false&width=500&lines=Portifolio:+DS+AMS,+FATEC
+![Thanks for the attention!!! :)](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3131&center=true&center=true&random=false&width=500&lines=Portifolio:+DS+AMS;Repositório+de+projetos+relacionados+a+Etec+Zona+Leste 
 )
-
-
-Repositório de projetos relacionados a Etec Zona Leste 
 
 # linguagens 
 
