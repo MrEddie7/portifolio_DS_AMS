@@ -1,3 +1,5 @@
+//matriz parte B exercício 1
+
 public class MatrizB {
     public static void main(String[] args) {
         // Declaração da matriz de inteiros 3x4
